@@ -1,0 +1,167 @@
+body
+{
+	font-size: 14px;
+	font-family: 'Raleway', sans-serif;
+}
+
+#landing
+{
+	text-align: center;
+	color: white;
+	background-image: url('../../images/land-image.jpg');
+	-webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+#landing .eslogan
+{
+	font-size: 2em;
+	color: white;
+}
+.ad-font
+{
+	font-size: 170px;;
+}
+.ad-font-text
+{
+	font-size: 40px;
+}
+.ad-font-text-b
+{
+	font-size: 30px;
+}
+.ad-container
+{
+	padding-top: 30px;
+}
+.ad-eslogan
+{
+	padding: 40px;
+}
+.footer-link
+{
+	color: gray;
+}
+.font-icon
+{
+	font-size: 1.3em;
+}
+.share-icon
+{
+	color: gray;
+}
+.share-icon:hover
+{
+	text-decoration: none;
+}
+.share-fav
+{
+	color: gray;
+}
+.share-fav:hover
+{
+	color: #FFB512;
+}
+.share-fav-active
+{
+	color: #FFB512;
+}
+.share-fav-active:hover
+{
+	color: gray;
+}
+.share-repost
+{
+	color: gray;
+}
+.share-repost:hover
+{
+	color: #33CC33;
+}
+.share-repost-active
+{
+	color: #33CC33;
+}
+.share-repost-active:hover
+{
+	color: gray;
+}
+
+.skycrapper
+{
+	padding-top: 10px
+}
+.post
+{
+	padding: 0;
+	margin: 0;
+}
+.post-avatar
+{
+	border-radius: 5px;
+	height: 75px;
+	width: 75px;
+}
+.post-avatar-indie
+{
+	border-radius: 5px;
+	height: 50px;
+	width: 50px;
+}
+.post-avatar-profile
+{
+	border-radius: 5px;
+	height: 20px;
+	width: 20px;
+}
+.post-avatar-home
+{
+	border-radius: 5px;
+	height: 50px;
+	width: 50px;
+}
+.post-avatar-name
+{
+	color: black;
+	font-size: 15px;
+}
+.post-content
+{
+	font-size: 16px;
+	padding-top: 10px;
+}
+.post-date
+{
+	color: gray;
+	font-size: 12px;
+}
+.panel-index
+{
+	padding-top: 20px;
+}
+.profile-avatar
+{
+	border-radius: 5px;
+	height: 100%;
+	width: 100%;
+}
+.profile-avatar-settings
+{
+	border-radius: 5px;
+	height: 100px;
+	width: 100px;
+}
+.pro-tip
+{
+	color: gray;
+	font-size: 12px;
+}
+.post-area
+{
+	max-height: 70px;
+}
+.letter-div
+{
+	word-wrap: break-word;
+}
